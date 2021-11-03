@@ -12,6 +12,7 @@ To run the app, please follow these steps:
   2. Insert the file ".env" to the Backend folder.
   3. Go to the Backend folder and run the line: python .\main.py
   4. Go to the Frontend folder and run the live server.
+
 In order to run tests, run the line: python -m unittest
 
 Enjoy!
