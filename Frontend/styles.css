@@ -1,0 +1,57 @@
+.app {
+    margin: 10px;
+    /* border: 2px solid #eee; */
+  }
+  
+  .header {
+    background-color: #282c34;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+  }
+
+  .users-list {
+    border: 2px solid #eee;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  .user-item {
+    border: 1px solid #282c34;
+    padding: 5px;
+    border-radius: 2px;
+    margin-bottom: 2px;
+  }
+
+
+  .add-user {
+    padding: 20px;
+    border: 2px solid #eee;
+    border-radius: 5px;
+  }
+  
+  .add-user input,
+  #add-user-btn,
+  #show-users-btn {
+    margin-bottom: 10px;
+  }
+  
+  #add-user-btn,
+  #show-users-btn{
+    width: 100%;
+  }
+  #message{
+    text-align: center;
+  }
+  .fail{
+    color:red;
+  }
+  .success{
+    color:green;
+  }
+  
+  
